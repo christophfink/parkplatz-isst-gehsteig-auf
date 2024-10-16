@@ -1,14 +1,6 @@
 .virtualenv
 .virtualenv/*
 .virtualenv/**
-dist
-dist/*
-dist/**
-build
-build/*
-build/**
-docs/build/*
-docs/build/**
 *.egg-info
 *.egg-info/*
 *.egg-info/**
@@ -21,19 +13,7 @@ docs/build/**
 .DS_Store
 */.DS_Store
 **/.DS_Store
-src/**/*.so
-src/**/*.c
-src/**/*.o
 
-docs/_build/
-docs/data/*.mapdb
-docs/data/*.mapdb.p
 **/.ipynb_checkpoints
-docs/jupyter_execute/
-docs/user-guide/user-manual/travel_times_to_helsinki_railway_station.csv
-docs/user-guide/user-manual/detailed_itineraries.gpkg
 
-.tox
-.coverage
-coverage.xml
-.vscode/*
+.cache
