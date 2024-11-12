@@ -12,6 +12,7 @@ myst-nb
 nbsphinx
 numpy
 pandas
+pygeoops
 pyogrio
 shapely
 sphinx
